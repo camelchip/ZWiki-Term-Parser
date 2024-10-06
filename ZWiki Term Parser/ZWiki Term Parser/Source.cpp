@@ -429,15 +429,6 @@ void csvLangToWikiText() {
 
 	}
 
-	//Error/Discrepancy formatting info
-	cout << endl << "Errors/discrepancies, with format:" << endl;
-	cout << "-<Term> (<lang>): '<Current Term>' vs. '<Expected Term>'" << endl;
-	errLog << "Errors/discrepancies, with format:" << endl;
-	errLog << "-<Term> (<lang>): '<Current Term>' vs. '<Expected Term>'" << endl;
-	errLogRomanization << "List of skipped Terms, due to missing Romanization/Latinization:" << endl;
-
-
-
 	//CSV input stuff
 	////inputFileName = "testSheet.csv";
 	inputFileName = "Term Translations Input.csv";
@@ -478,13 +469,22 @@ void csvLangToWikiText() {
 	string langTerm;
 	string langMeaning;
 
+	///User inputs
 	string termRef = "";
 	cout << "Please enter the Reference name for the given CSV (e.g. Map, Hyrule Compendium): ";
 	getline(cin, termRef);
 
 	string gameAbbr = "";
-	cout << "Please enter the relevant game abbreviation (e.g. gameAbbr): ";
+	cout << "Please enter the relevant game abbreviation (e.g. BotW): ";
 	getline(cin, gameAbbr);
+
+
+	//Error/Discrepancy formatting info
+	cout << endl << "Errors/discrepancies, with format:" << endl;
+	cout << "-<Term> (<lang>): '<Current Translation>' vs. '<New Translation>'" << endl;
+	errLog << "Errors/discrepancies, with format:" << endl;
+	errLog << "-<Term> (<lang>): '<Current Translation>' vs. '<New Translation>'" << endl;
+	errLogRomanization << "List of skipped Terms, due to missing Romanization/Latinization:" << endl;
 
 
 	//Get all file lines

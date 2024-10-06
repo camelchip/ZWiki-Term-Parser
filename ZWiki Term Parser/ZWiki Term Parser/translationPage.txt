@@ -1,0 +1,57 @@
+﻿{{Data Translation Header
+|covers= · {{Plural|BotW|Item|link}} and {{Plural|BotW|Object|link}}<br/>· Playable {{Plural|BotW|Song|link}}
+|does not cover= · {{Plural|BotW|Item}} that are also characters or {{Plural|BotW|Enemy|link}} <sup>([[Data:Translations/BotW/Characters|see here]])</sup><br/>· {{Plural|BotW|Object}} that cause damage ([[:Category:Traps|Traps]]) <sup>([[Data:Translations/BotW/Enemies|see here]])</sup>
+}}
+
+<!-- S -->
+{{Translation/Store|BotW|Soldier's Broadsword
+|enBr= |enBrM= |enBrR= 
+|ja= {{Romanize|兵士の剣|Heishi no ken}}|jaM= |jaR= 
+|zhS= |zhSM= |zhSR= 
+|zhT= |zhTM= |zhTR= 
+|cs= |csM= |csR= 
+|da= |daM= |daR= 
+|nl= |nlM= |nlR= 
+|fi= |fiM= |fiR= 
+|frC= |frCM= |frCR= 
+|frF= |frFM= |frFR= 
+|de= |deM= |deR= 
+|he= |heM= |heR= 
+|hu= |huM= |huR= 
+|it= |itM= |itR= 
+|ko= |koM= |koR= 
+|no= |noM= |noR= 
+|pl= |plM= |plR= 
+|ptB= |ptBM= |ptBR= 
+|ptP= |ptPM= |ptPR= 
+|ru= |ruM= |ruR= 
+|esS= |esSM= |esSR= 
+|esL= |esLM= |esLR= 
+|sv= |svM= |svR= 
+}}
+
+{{Translation/Store|BotW|Soldier's Claymore
+|enBr= |enBrM= |enBrR= 
+|ja= {{Romanize|兵士の両手剣|Heishi no ryōte ken}}|jaM= |jaR= 
+|zhS= |zhSM= |zhSR= 
+|zhT= |zhTM= |zhTR= 
+|cs= |csM= |csR= 
+|da= |daM= |daR= 
+|nl= Soldaten grootzwaard|nlM= Soldier's Greatsword|nlR= {{Cite|Soldaten grootzwaard|Inventory|BotW}}
+|fi= |fiM= |fiR= 
+|frC= |frCM= |frCR= 
+|frF= Espadon de soldat|frFM= |frFR= 
+|de= |deM= |deR= 
+|he= |heM= |heR= 
+|hu= |huM= |huR= 
+|it= |itM= |itR= 
+|ko= |koM= |koR= 
+|no= |noM= |noR= 
+|pl= |plM= |plR= 
+|ptB= |ptBM= |ptBR= 
+|ptP= |ptPM= |ptPR= 
+|ru= |ruM= |ruR= 
+|esS= |esSM= |esSR= 
+|esL= Espada grande de soldado|esLM= |esLR= 
+|sv= |svM= |svR= 
+}}
