@@ -12,4 +12,8 @@
 * `translationPage_output.txt` - Text file containing the updated contents of the Translation page.
   * Since the input was based on the current Data page (in `translationPage.txt`), this updated version is ready to be copy/pasted onto the Wiki. Check the diff before publishing the changes, though!
 * `errLog.txt` - Text file logging discrepencies between the current translations (from the Data page) and the new translations (from the CSV).
-* `errLogRomanization.txt` - Text file logging translations that were skipped due to not having a Romanized entry.
+  * For example, the US-es entry for `Soldier's Claymore` might be `Espada grande de soldado` on the Data page, but the CSV lists a translation of `Mandoble de soldado`.
+  * This is logged as `-Soldier's Claymore (esL): 'Espada grande de soldado' vs. 'Mandoble de soldado'`.
+* `errLogRomanization.txt` - Text file logging translations that were skipped due to not having a Romanized entry in the CSV.
+  * For example, the KR-ko entry for `Soldier's Claymore` might have a translation as `병사의 양손검`, but not have a corresponding Romanization.
+  * This is logged as `-(ko) Soldier's Claymore: no Romanization available (병사의 양손검 == '')`.
