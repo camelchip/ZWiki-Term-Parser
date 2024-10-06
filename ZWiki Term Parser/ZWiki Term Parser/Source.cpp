@@ -693,6 +693,7 @@ void csvLangToWikiText() {
 	errLogRomanization.close();
 
 
+	/*
 	ofstream outcsv;
 	outcsv.open("output.csv");
 	const char *bom = "\xef\xbb\xbf";
@@ -713,6 +714,7 @@ void csvLangToWikiText() {
 		outcsv << endl;
 	}
 	outcsv.close();
+	*/
 }
 
 
