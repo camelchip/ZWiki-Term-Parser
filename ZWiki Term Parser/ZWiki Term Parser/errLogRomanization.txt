@@ -1,0 +1,2 @@
+List of skipped Terms, due to missing Romanization/Latinization:
+-(ko) Soldier's Claymore: no Romanization available (병사의 양손검 == '')

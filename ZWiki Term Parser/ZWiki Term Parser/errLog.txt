@@ -1,0 +1,4 @@
+Errors/discrepancies, with format:
+-<Term> (<lang>): '<Current Translation>' vs. '<New Translation>'
+
+-Soldier's Claymore (esL): 'Espada grande de soldado' vs. 'Mandoble de soldado'

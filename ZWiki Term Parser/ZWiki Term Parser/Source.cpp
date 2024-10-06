@@ -567,7 +567,7 @@ void csvLangToWikiText() {
 								//If CSV doesn't have a Romanization/Latin-equivalent yet, then skip
 								if (romanizedTerm == "" || romanizedTerm == "\"") { //empty or <">
 									errLogRomanization << "-(" << langAlias << ") " << currTerm << ": ";
-									errLogRomanization << "skipped due to no Romanization available (" << langTerm << " == '" << dataVect.at(index + 1).at(currTermRow) << "'" << endl;
+									errLogRomanization << "no Romanization available (" << langTerm << " == '" << dataVect.at(index + 1).at(currTermRow) << "')" << endl;
 
 									//Output existing line (no changes!)
 									outfile << lineStr << endl;

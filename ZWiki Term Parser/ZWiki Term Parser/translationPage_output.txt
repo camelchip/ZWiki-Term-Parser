@@ -1,0 +1,57 @@
+﻿{{Data Translation Header
+|covers= · {{Plural|BotW|Item|link}} and {{Plural|BotW|Object|link}}<br/>· Playable {{Plural|BotW|Song|link}}
+|does not cover= · {{Plural|BotW|Item}} that are also characters or {{Plural|BotW|Enemy|link}} <sup>([[Data:Translations/BotW/Characters|see here]])</sup><br/>· {{Plural|BotW|Object}} that cause damage ([[:Category:Traps|Traps]]) <sup>([[Data:Translations/BotW/Enemies|see here]])</sup>
+}}
+
+<!-- S -->
+{{Translation/Store|BotW|Soldier's Broadsword
+|enBr= |enBrM= |enBrR= 
+|ja= {{Romanize|兵士の剣|Heishi no ken}}|jaM= |jaR= {{Cite|兵士の剣|Inventory|BotW}}
+|zhS= |zhSM= |zhSR= 
+|zhT= {{Romanize|士兵之劍|Shìbīng zhī jiàn}}|zhTM= |zhTR= {{Cite|士兵之劍|Inventory|BotW}}
+|cs= |csM= |csR= 
+|da= |daM= |daR= 
+|nl= Soldatenzwaard|nlM= |nlR= {{Cite|Soldatenzwaard|Inventory|BotW}}
+|fi= |fiM= |fiR= 
+|frC= |frCM= |frCR= 
+|frF= Épée de soldat|frFM= |frFR= {{Cite|Épée de soldat|Inventory|BotW}}
+|de= Soldatenschwert|deM= |deR= {{Cite|Soldatenschwert|Inventory|BotW}}
+|he= |heM= |heR= 
+|hu= |huM= |huR= 
+|it= Spada da soldato|itM= |itR= {{Cite|Spada da soldato|Inventory|BotW}}
+|ko= {{Romanize|병사의 검|Byeongsaui geom}}|koM= |koR= {{Cite|병사의 검|Inventory|BotW}}
+|no= |noM= |noR= 
+|pl= |plM= |plR= 
+|ptB= |ptBM= |ptBR= 
+|ptP= |ptPM= |ptPR= 
+|ru= {{Romanize|Боебой меч|Boyeboy mech}}|ruM= |ruR= {{Cite|Боебой меч|Inventory|BotW}}
+|esS= |esSM= |esSR= 
+|esL= Espada de soldado|esLM= |esLR= {{Cite|Espada de soldado|Inventory|BotW}}
+|sv= |svM= |svR= 
+}}
+
+{{Translation/Store|BotW|Soldier's Claymore
+|enBr= |enBrM= |enBrR= 
+|ja= {{Romanize|兵士の両手剣|Heishi no ryōte ken}}|jaM= |jaR= {{Cite|兵士の両手剣|Inventory|BotW}}
+|zhS= {{Romanize|士兵双手剑|Shìbīng shuāngshǒu jiàn}}|zhSM= |zhSR= {{Cite|士兵双手剑|Inventory|BotW}}
+|zhT= {{Romanize|士兵雙手劍|Shìbīng shuāngshǒu jiàn}}|zhTM= |zhTR= {{Cite|士兵雙手劍|Inventory|BotW}}
+|cs= |csM= |csR= 
+|da= |daM= |daR= 
+|nl= Soldaten grootzwaard|nlM= Soldier's Greatsword|nlR= {{Cite|Soldaten grootzwaard|Inventory|BotW}}
+|fi= |fiM= |fiR= 
+|frC= |frCM= |frCR= 
+|frF= Espadon de soldat|frFM= |frFR= {{Cite|Espadon de soldat|Inventory|BotW}}
+|de= Soldaten-Zweihänder|deM= |deR= {{Cite|Soldaten-Zweihänder|Inventory|BotW}}
+|he= |heM= |heR= 
+|hu= |huM= |huR= 
+|it= Spadone da soldato|itM= |itR= {{Cite|Spadone da soldato|Inventory|BotW}}
+|ko= |koM= |koR= 
+|no= |noM= |noR= 
+|pl= |plM= |plR= 
+|ptB= |ptBM= |ptBR= 
+|ptP= |ptPM= |ptPR= 
+|ru= {{Romanize|Боевой клеймор|Boyevoy kleymor}}|ruM= |ruR= {{Cite|Боевой клеймор|Inventory|BotW}}
+|esS= |esSM= |esSR= 
+|esL= Espada grande de soldado|esLM= |esLR= 
+|sv= |svM= |svR= 
+}}
